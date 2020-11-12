@@ -1,4 +1,4 @@
-# hello-world
+# Cocos creator with Typescript to Java and Objective C
 
 This is demo in cocos creator 2.4.2
 
