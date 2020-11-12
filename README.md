@@ -43,6 +43,7 @@ public static String InfoFromJs(final String method, final String value){
 ```
 
 **IOS**
+
 create file  AppController.h
 ```objectivec
 @class RootViewController;
