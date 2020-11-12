@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.2",
+  "name": "TestNativeCall",
+  "id": "df91a562-c5fb-44af-b6e3-241139159be4",
+  "isNew": false
+}
